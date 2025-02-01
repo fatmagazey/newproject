@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo "Fomula One"
+formula one is the pinnacle of motorsports
