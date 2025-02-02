@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Adios Mundo!"
+echo "Bonjour le monde!"
